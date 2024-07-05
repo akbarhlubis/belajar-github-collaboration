@@ -32,3 +32,4 @@ git clone <repository-url>
 - [Dicoding](https://www.dicoding.com/blog/cara-berkolaborasi-di-repositori-github/)
 - [Kolaborasi dengan github](https://github.com/bantenprov/cara-penggunaan-github)
 - [Cheatsheet Github Training](https://training.github.com/downloads/github-git-cheat-sheet/)
+- [Official Github Documentations](https://docs.github.com/en)

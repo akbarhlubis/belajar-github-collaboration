@@ -1,2 +1,2 @@
-# Konten Insta (Percobaan)
-lorem ipsum dolor sit amet (ini kata kata percobaan, jangan di update ke main atau branch utama)
+# Konten Insta
+Ini Konten bla bla bla

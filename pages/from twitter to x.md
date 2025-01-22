@@ -1,3 +1,7 @@
+### Daftar Isi
+- Rebranding
+- Sumber
+
 # Rebranding dari Twitter ke X oleh Elon Musk
 ![Gambar](../assets/twit-goes-x.webp)
 
